@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884655194332",
+    "project_id": "fluttertaskmanager-bd819",
+    "storage_bucket": "fluttertaskmanager-bd819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884655194332:android:a591971dd7002a58d7f419",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6DJU-LM6Mk-douboBKndqscS3eDUzFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
